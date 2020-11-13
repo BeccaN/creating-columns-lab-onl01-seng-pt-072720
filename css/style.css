@@ -58,4 +58,19 @@ img:hover {
 
 /* create your tile classes! we recommend .small .med .large */
 
+.small {
+  grid-column-start: auto;
+  grid-column-end: auto;
+  grid-row-start: auto;
+  grid-row-end: auto;
 
+}
+
+.med {
+
+}
+
+
+.large {
+
+} 
